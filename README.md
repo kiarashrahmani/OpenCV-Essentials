@@ -112,7 +112,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb10-1"><a h
 </div>
 <div class="output display_data">
 <p><img
-src="images/myimage2_SAVED.png" /></p>
+src="images/gray_output_image.png" /></p>
 </div>
 </div>
 <div id="db141f3e" class="cell code" data-execution_count="6"
@@ -124,7 +124,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb12-1"><a h
 </div>
 <div class="output display_data">
 <p><img
-src="vertopal_9f5e39cf63d64de291bb761e0e20073b/dc5681211287f947675a9205b5965d9ccd790425.png" /></p>
+src="images/wrong_output_image.png" /></p>
 </div>
 </div>
 <div id="5e62292a" class="cell code" data-execution_count="8"
