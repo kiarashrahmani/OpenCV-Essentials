@@ -11,12 +11,6 @@ Libraries</span></h2>
 <div id="21638028" class="cell code" data-execution_count="1">
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode python"><code class="sourceCode python"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>pip install opencv<span class="op">-</span>python</span></code></pre></div>
-<div class="output stream stdout">
-<pre><code>Requirement already satisfied: opencv-python in c:\users\kiarash rahmani\anaconda3\lib\site-packages (4.9.0.80)
-Requirement already satisfied: numpy&gt;=1.17.0 in c:\users\kiarash rahmani\anaconda3\lib\site-packages (from opencv-python) (1.24.3)
-Note: you may need to restart the kernel to use updated packages.
-</code></pre>
-</div>
 </div>
 <div id="9bd19eaf" class="cell code" data-execution_count="2">
 <div class="sourceCode" id="cb3"><pre
