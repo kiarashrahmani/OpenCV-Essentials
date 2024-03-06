@@ -31,7 +31,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb3-1"><a hr
 class="sourceCode python"><code class="sourceCode python"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a>Image(filename<span class="op">=</span><span class="st">&quot;images/myimage1.jpg&quot;</span>)</span></code></pre></div>
 <div class="output execute_result" data-execution_count="3">
 <p><img
-src="vertopal_9f5e39cf63d64de291bb761e0e20073b/96de6dfcc9d6cfbcb4d88dbfbc025e2103e6acbc.jpg" /></p>
+src="images/myimage1.jpg"/></p>
 </div>
 </div>
 <div id="afd1ec15" class="cell markdown">
@@ -112,7 +112,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb10-1"><a h
 </div>
 <div class="output display_data">
 <p><img
-src="vertopal_9f5e39cf63d64de291bb761e0e20073b/2b56c81f9dced51ae6c61c70c7e3199ed560ac23.png" /></p>
+src="images/myimage2_SAVED.png" /></p>
 </div>
 </div>
 <div id="db141f3e" class="cell code" data-execution_count="6"
@@ -206,7 +206,7 @@ class="sourceCode python"><code class="sourceCode python"><span id="cb20-1"><a h
 <span id="cb20-4"><a href="#cb20-4" aria-hidden="true" tabindex="-1"></a>Image(filename<span class="op">=</span><span class="st">&#39;images/myimage1_SAVED.png&#39;</span>)</span></code></pre></div>
 <div class="output execute_result" data-execution_count="16">
 <p><img
-src="vertopal_9f5e39cf63d64de291bb761e0e20073b/41094f7ee529a1160c8b81fb66077647b4e42704.png" /></p>
+src="images/myimage1_SAVED.png" /></p>
 </div>
 </div>
 <div id="2af9f90c" class="cell markdown">
